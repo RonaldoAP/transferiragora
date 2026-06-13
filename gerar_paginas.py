@@ -11,7 +11,7 @@ DOMINIOS = [
         "dominio": "acompanharvoo",
         "tld": ".com.br",
         "tagline": "O endereço ideal para serviços de rastreamento e acompanhamento de voos no Brasil. Memorável, direto e sem concorrência.",
-        "valor": "R$ 3.500",
+        "valor": "R$ 12.200",
         "cards": [
             ("01", "Turismo digital em alta", "O setor aéreo brasileiro movimenta bilhões. Quem domina o nome domina a busca — e o cliente que está pesquisando voo agora."),
             ("02", "Nome descritivo = tráfego grátis", "Usuários digitam exatamente o que precisam. 'Acompanhar voo' é uma das buscas mais frequentes no Google Brasil."),
@@ -24,7 +24,7 @@ DOMINIOS = [
         "dominio": "atacadoshopping",
         "tld": ".com.br",
         "tagline": "Perfeito para marketplaces, atacadistas e plataformas de compra em grande volume. Um nome que explica e vende por si só.",
-        "valor": "R$ 5.500",
+        "valor": "R$ 13.400",
         "cards": [
             ("01", "E-commerce no atacado explode", "O atacado online cresce mais rápido que o varejo. Quem chegar com o nome certo na cabeça do comprador ganha o mercado."),
             ("02", "Duas palavras de alto impacto", "Atacado + Shopping: dupla poderosa que comunica volume, variedade e economia. O nome já é a proposta de valor."),
@@ -63,7 +63,7 @@ DOMINIOS = [
         "dominio": "casadaraposa",
         "tld": ".com.br",
         "tagline": "Nome criativo e memorável, ideal para restaurantes, bares, moda boutique ou marcas com personalidade forte e conceito único.",
-        "valor": "R$ 2.800",
+        "valor": "R$ 8.300",
         "cards": [
             ("01", "Nomes criativos geram viralidade", "Marcas com nomes inusitados são compartilhadas naturalmente. 'Casa da Raposa' já desperta curiosidade antes do primeiro contato."),
             ("02", "Identidade visual pronta na cabeça", "A raposa é símbolo de astúcia e elegância. O branding se escreve sozinho — e fica na memória do cliente."),
@@ -102,7 +102,7 @@ DOMINIOS = [
         "dominio": "dockpay",
         "tld": ".com.br",
         "tagline": "Nome curto, moderno e internacionalizável para soluções de pagamento digital, open finance ou plataformas de gestão financeira.",
-        "valor": "R$ 9.500",
+        "valor": "R$ 19.900",
         "cards": [
             ("01", "Fintech de alto crescimento", "O Brasil lidera fintechs na América Latina. Startups de pagamento captam investimentos bilionários — e precisam de nomes que escalam."),
             ("02", "Dock: referência em infraestrutura", "Dock é uma palavra forte no universo de APIs e banking-as-a-service. O nome já posiciona a marca nessa categoria premium."),
@@ -154,7 +154,7 @@ DOMINIOS = [
         "dominio": "fnabrasil",
         "tld": ".com.br",
         "tagline": "Domínio institucional ideal para federações, associações nacionais, franquias ou qualquer organização de abrangência nacional com sigla FNA.",
-        "valor": "R$ 3.500",
+        "valor": "R$ 8.800",
         "cards": [
             ("01", "Siglas institucionais têm valor", "Federações, associações e redes franqueadas buscam domínios com sua sigla. Quem tiver o .com.br da sigla FNA controla a presença digital."),
             ("02", "Brasil no nome = alcance nacional", "A combinação sigla + Brasil comunica abrangência e legitimidade desde o primeiro acesso. Ideal para organizações de grande porte."),
@@ -167,7 +167,7 @@ DOMINIOS = [
         "dominio": "santaefigeniaconstrutora",
         "tld": ".com.br",
         "tagline": "Domínio institucional registrado para construtora com nome consolidado no mercado imobiliário. Ideal para empresa do setor de construção civil da região.",
-        "valor": "R$ 2.200",
+        "valor": "R$ 25.600",
         "cards": [
             ("01", "Nome já existe no mercado", "Construtoras com este nome já operam no Brasil. Quem adquirir o domínio ganha autoridade digital imediata e protege a marca no ambiente online."),
             ("02", "Setor imobiliário em alta", "Construção civil e mercado imobiliário seguem em expansão. Um domínio profissional é o primeiro passo para captar clientes e obras pelo digital."),
