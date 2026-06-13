@@ -162,6 +162,19 @@ DOMINIOS = [
             ("04", "Comprador certo existe", "Qualquer organização, associação ou rede com a sigla FNA precisa deste domínio para proteger sua marca. O comprador já existe — só falta o contato."),
         ],
     },
+    {
+        "slug": "vidaplus",
+        "dominio": "vidaplus",
+        "tld": ".com.br",
+        "tagline": "Nome curto, positivo e memorável para plataformas de saúde, bem-estar, suplementação, planos de saúde ou qualquer marca que queira transmitir qualidade de vida.",
+        "valor": "R$ 7.800",
+        "cards": [
+            ("01", "Saúde é o maior mercado do Brasil", "O setor de saúde e bem-estar movimenta mais de R$ 200 bilhões por ano no Brasil. Um nome premium nesse setor é um ativo que só valoriza."),
+            ("02", "Vida + Plus = proposta de valor imediata", "Duas palavras que juntas comunicam evolução, qualidade e cuidado. O nome já entrega a promessa da marca antes mesmo do primeiro acesso."),
+            ("03", "Versátil para qualquer nicho de saúde", "Plano de saúde, app de bem-estar, clínica, suplementos, farmácia, academia — VidaPlus encaixa em qualquer formato sem perder identidade."),
+            ("04", "Curto, sonoro e fácil de lembrar", "Apenas 8 letras, fácil de falar e de digitar. Domínios curtos em mercados competitivos valem significativamente mais que nomes longos."),
+        ],
+    },
 ]
 
 
