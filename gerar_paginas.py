@@ -163,6 +163,19 @@ DOMINIOS = [
         ],
     },
     {
+        "slug": "santaefigeniaconstrutora",
+        "dominio": "santaefigeniaconstrutora",
+        "tld": ".com.br",
+        "tagline": "Domínio institucional registrado para construtora com nome consolidado no mercado imobiliário. Ideal para empresa do setor de construção civil da região.",
+        "valor": "R$ 2.200",
+        "cards": [
+            ("01", "Nome já existe no mercado", "Construtoras com este nome já operam no Brasil. Quem adquirir o domínio ganha autoridade digital imediata e protege a marca no ambiente online."),
+            ("02", "Setor imobiliário em alta", "Construção civil e mercado imobiliário seguem em expansão. Um domínio profissional é o primeiro passo para captar clientes e obras pelo digital."),
+            ("03", "Credibilidade local e regional", "Nomes com referência de bairro ou santo padroeiro transmitem enraizamento e confiança — ativos valiosos para construtoras que atuam regionalmente."),
+            ("04", "Janela de oportunidade", "Domínios com nome de empresa estabelecida raramente ficam disponíveis por muito tempo. Esta é uma oportunidade pontual para garantir o endereço certo."),
+        ],
+    },
+    {
         "slug": "vidaplus",
         "dominio": "vidaplus",
         "tld": ".com.br",
