@@ -167,7 +167,7 @@ DOMINIOS = [
         "dominio": "santaefigeniaconstrutora",
         "tld": ".com.br",
         "tagline": "Domínio institucional registrado para construtora com nome consolidado no mercado imobiliário. Ideal para empresa do setor de construção civil da região.",
-        "valor": "R$ 25.600",
+        "valor": "R$ 14.600",
         "cards": [
             ("01", "Nome já existe no mercado", "Construtoras com este nome já operam no Brasil. Quem adquirir o domínio ganha autoridade digital imediata e protege a marca no ambiente online."),
             ("02", "Setor imobiliário em alta", "Construção civil e mercado imobiliário seguem em expansão. Um domínio profissional é o primeiro passo para captar clientes e obras pelo digital."),
